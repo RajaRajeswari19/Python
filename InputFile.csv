@@ -1,0 +1,10 @@
+sno,property_type,location,num_bedrooms,num_bathrooms,square_footage,price_per_onesq_footage,price
+1,Individual House,Chennai,2,1,1200,300,360000
+2,Individual House,Mumbai,3,2,1800,200,360000
+3,Individual House,Kolkata,4,3,2000,100,200000
+4,Flat,Chennai,1,3,1600,100,160000
+5,Flat,Mumbai,3,2,2100,150,315000
+6,Flat,Bangalore,2,1,1000,250,250000
+7,Duplex House,Chennai,4,2,2400,300,720000
+8,Duplex House,Mumbai,3,1,2600,450,1170000
+9,Duplex House,Kolkata,3,3,2800,500,1400000
